@@ -1,6 +1,6 @@
 # Persian E-Commerce Sentiment & Purchase Recommendation Pipeline
 
-[![CI Pipeline](https://github.com/YOUR_USERNAME/persian-ecommerce-sentiment/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/persian-ecommerce-sentiment/actions)
+[![CI Pipeline](https://github.com/a-abedin/persian-ecommerce-sentiment/actions/workflows/ci.yml/badge.svg)](https://github.com/a-abedin/persian-ecommerce-sentiment/actions)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![UI-Gradio](https://img.shields.io/badge/UI-Gradio-orange.svg)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
