@@ -1,4 +1,4 @@
-# 🛍️ Persian E-Commerce Sentiment & Purchase Recommendation Pipeline
+# Persian E-Commerce Sentiment & Purchase Recommendation Pipeline
 
 [![CI Pipeline](https://github.com/YOUR_USERNAME/persian-ecommerce-sentiment/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/persian-ecommerce-sentiment/actions)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
@@ -9,7 +9,7 @@ An end-to-end, production-oriented Natural Language Processing pipeline designed
 
 ---
 
-## 🎯 Background & Business Context
+## Background & Business Context
 Customer reviews in Persian e-commerce platforms present distinct challenges:
 - Complex morphology and right-to-left (RTL) script formatting.
 - Inconsistent Arabic/Persian character encodings (e.g., `ي` vs `ی`).
@@ -20,7 +20,7 @@ While large Transformer models (e.g., ParsBERT) offer high expressive power, the
 
 ---
 
-## 🏗️ Architecture & Pipeline Flow
+## Architecture & Pipeline Flow
 
 ```text
 Raw Persian Customer Review
